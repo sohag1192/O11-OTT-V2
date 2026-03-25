@@ -1,4 +1,3 @@
-**The README for your repository `O11-OTT-V2` is very minimal. It simply states that this is a patched build of the O11 OTT v2 streamer, made free for everyone, without detailed installation or usage instructions.**
 
 ---
 
@@ -32,5 +31,3 @@ This runs the patched binary directly. The tool is intended for experimenting wi
 - Community forks like this are often used for testing, not production, unless hardened with scripts (like the installer you drafted for v3).  
 
 ---
-
-👉 Since you’re actively refining **v3.1.sh** for production readiness, I can help you **draft a branded README for O11-OTT-V2** that matches your style (bilingual, clear install steps, and service setup). That way, your older repo looks consistent with your newer work. Would you like me to create that README draft for `O11-OTT-V2`?  
